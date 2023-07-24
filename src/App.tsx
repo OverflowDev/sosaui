@@ -1,4 +1,4 @@
-import Blog from "./components/Blog"
+// import Blog from "./components/Blog"
 import Download from "./components/Download"
 import Hero from "./components/Hero"
 import Interface from "./components/Interface"
